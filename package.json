@@ -1,0 +1,19 @@
+{
+  "name": "ignite-tour-lp1s1",
+  "version": "1.0.0",
+  "description": "![Build status](https://dev.azure.com/devrel/Ignite-Tour-LP1S1/_apis/build/status/LP1S1%20Build)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyproslambrou/ignite-tour-lp1s1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyproslambrou/ignite-tour-lp1s1/issues"
+  },
+  "homepage": "https://github.com/kyproslambrou/ignite-tour-lp1s1#readme"
+}
